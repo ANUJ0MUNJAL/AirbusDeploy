@@ -1,0 +1,14 @@
+/* AirplaneMap.css */
+.map-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh; /* Set height to 100vh */
+  }
+  
+  .leaflet-container {
+    width: 100%;
+    height: 100%; /* Ensure Leaflet container fills the entire map container */
+  }
+  
